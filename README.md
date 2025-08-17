@@ -1,4 +1,6 @@
 # Advanced_Network_Security
+* [Quiz 1](q1.md)
+* [Quiz 2](q2.md)
 * [Mock Test](mock.md)
 * [Tutorial (Past Semester Question)](Tutorial.md)
 * [Module 1](m1.md)
